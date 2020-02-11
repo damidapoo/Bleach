@@ -1,0 +1,8 @@
+# first try
+apiVersion: v1
+kind: Pod
+
+metadata:
+    name: test-site
+    labels:
+        app: web
